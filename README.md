@@ -11,10 +11,14 @@ Welcome to the repository of practical codes demonstrated during classroom sessi
 This repo is organized into folders by topic or session. Each folder contains Jupyter notebooks (`.ipynb`) or Python scripts (`.py`) relevant to what we covered in class.
 
 ```
+├── data
+│   └── data.csv
 ├── README.md
 ├── requirements.txt
 └── week-5
-    └── numpy_practicals.ipynb
+    ├── handling_missing_values_and_outlier.ipynb
+    ├── numpy_practicals.ipynb
+    └── pandas_practicals.ipynb
 ```
 
 
