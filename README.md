@@ -12,13 +12,17 @@ This repo is organized into folders by topic or session. Each folder contains Ju
 
 ```
 ├── data
-│   └── data.csv
+│   ├── data.csv
+│   └── test.db
 ├── README.md
 ├── requirements.txt
-└── week-5
-    ├── handling_missing_values_and_outlier.ipynb
-    ├── numpy_practicals.ipynb
-    └── pandas_practicals.ipynb
+├── week-5
+│   ├── handling_missing_values_and_outlier_practicals.ipynb
+│   ├── numpy_practicals.ipynb
+│   └── pandas_practicals.ipynb
+└── week-6
+    ├── essential_sql_with_pandas.ipynb
+    └── sql_nested_qeureis_and_connector.ipynb
 ```
 
 
