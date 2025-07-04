@@ -20,9 +20,14 @@ This repo is organized into folders by topic or session. Each folder contains Ju
 │   ├── handling_missing_values_and_outlier_practicals.ipynb
 │   ├── numpy_practicals.ipynb
 │   └── pandas_practicals.ipynb
-└── week-6
-    ├── essential_sql_with_pandas.ipynb
-    └── sql_nested_qeureis_and_connector.ipynb
+├── week-6
+│   ├── essential_sql_with_pandas.ipynb
+│   ├── mydatabase.db
+│   └── sql_nested_qeureis_and_connector.ipynb
+└── week-7
+    ├── basic_matplotlib_seaborn.ipynb
+    ├── plots.ipynb
+    └── scipy.ipynb
 ```
 
 
