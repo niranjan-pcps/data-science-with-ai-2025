@@ -12,22 +12,30 @@ This repo is organized into folders by topic or session. Each folder contains Ju
 
 ```
 ├── data
-│   ├── data.csv
-│   └── test.db
+│   ├── data.csv
+│   └── test.db
 ├── README.md
 ├── requirements.txt
 ├── week-5
-│   ├── handling_missing_values_and_outlier_practicals.ipynb
-│   ├── numpy_practicals.ipynb
-│   └── pandas_practicals.ipynb
+│   ├── handling_missing_values_and_outlier_practicals.ipynb
+│   ├── numpy_practicals.ipynb
+│   └── pandas_practicals.ipynb
 ├── week-6
-│   ├── essential_sql_with_pandas.ipynb
-│   ├── mydatabase.db
-│   └── sql_nested_qeureis_and_connector.ipynb
-└── week-7
-    ├── basic_matplotlib_seaborn.ipynb
-    ├── plots.ipynb
-    └── scipy.ipynb
+│   ├── essential_sql_with_pandas.ipynb
+│   └── sql_nested_qeureis_and_connector.ipynb
+├── week-7
+│   ├── basic_matplotlib_seaborn.ipynb
+│   ├── plots.ipynb
+│   └── scipy.ipynb
+├── week-8
+│   ├── linear_regression.ipynb
+│   ├── logistic_regression.ipynb
+│   └── ML_pipeline.ipynb
+└── week-9
+    ├── advanced_knn.ipynb
+    ├── Knn.ipynb
+    └── svm_and_grid_search.ipynb
+
 ```
 
 
@@ -35,7 +43,25 @@ This repo is organized into folders by topic or session. Each folder contains Ju
 
 ## 🧠 Topics Covered
 
-- ✅ NumPy (arrays, inbuilt-functions, broadcasting, indexing and slicing)
+-✅ NumPy (arrays, inbuilt functions, broadcasting, indexing, slicing)
+-✅ Pandas (Series, DataFrames, indexing, filtering)
+-✅ Data aggregation and groupby
+-✅ Missing values & outliers handling, 
+-✅ EDA & insights, 
+-✅ SQL (SELECT, WHERE, GROUP BY, ORDER BY, JOINs, subqueries), 
+-✅ SQL-Python integration (SQLite, MySQL), 
+-✅ Data Visualization (Seaborn, Matplotlib - bar, line, hist, box, heatmap), 
+-✅ Chart customization & color palettes, 
+-✅ SciPy computations, 
+-✅ Visual storytelling, 
+-✅ ML pipeline, 
+-✅ Supervised vs Unsupervised, 
+-✅ Linear Regression (R², residuals), 
+-✅ Logistic Regression (sigmoid, metrics), 
+-✅ KNN (distance metrics, K selection, CV), 
+-✅ SVM (decision boundary, kernel), 
+-✅ Model evaluation & tuning.
+
 ---
 
 ## 🚀 How to Use This Repo
