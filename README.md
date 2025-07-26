@@ -12,25 +12,31 @@ This repo is organized into folders by topic or session. Each folder contains Ju
 
 ```
 ├── data
-│   ├── data.csv
-│   └── test.db
+│   ├── data.csv
+│   └── test.db
 ├── README.md
 ├── requirements.txt
+├── week-10
+│   ├── k_means_clustering.ipynb
+│   └── pca.ipynb
+├── week-11
+│   ├── neural_network.ipynb
+│   └── tensorflow_and_Keras.ipynb
 ├── week-5
-│   ├── handling_missing_values_and_outlier_practicals.ipynb
-│   ├── numpy_practicals.ipynb
-│   └── pandas_practicals.ipynb
+│   ├── handling_missing_values_and_outlier_practicals.ipynb
+│   ├── numpy_practicals.ipynb
+│   └── pandas_practicals.ipynb
 ├── week-6
-│   ├── essential_sql_with_pandas.ipynb
-│   └── sql_nested_qeureis_and_connector.ipynb
+│   ├── essential_sql_with_pandas.ipynb
+│   └── sql_nested_qeureis_and_connector.ipynb
 ├── week-7
-│   ├── basic_matplotlib_seaborn.ipynb
-│   ├── plots.ipynb
-│   └── scipy.ipynb
+│   ├── basic_matplotlib_seaborn.ipynb
+│   ├── plots.ipynb
+│   └── scipy.ipynb
 ├── week-8
-│   ├── linear_regression.ipynb
-│   ├── logistic_regression.ipynb
-│   └── ML_pipeline.ipynb
+│   ├── linear_regression.ipynb
+│   ├── logistic_regression.ipynb
+│   └── ML_pipeline.ipynb
 └── week-9
     ├── advanced_knn.ipynb
     ├── Knn.ipynb
@@ -43,24 +49,32 @@ This repo is organized into folders by topic or session. Each folder contains Ju
 
 ## 🧠 Topics Covered
 
--✅ NumPy (arrays, inbuilt functions, broadcasting, indexing, slicing)
--✅ Pandas (Series, DataFrames, indexing, filtering)
--✅ Data aggregation and groupby
--✅ Missing values & outliers handling, 
--✅ EDA & insights, 
--✅ SQL (SELECT, WHERE, GROUP BY, ORDER BY, JOINs, subqueries), 
--✅ SQL-Python integration (SQLite, MySQL), 
--✅ Data Visualization (Seaborn, Matplotlib - bar, line, hist, box, heatmap), 
--✅ Chart customization & color palettes, 
--✅ SciPy computations, 
--✅ Visual storytelling, 
--✅ ML pipeline, 
--✅ Supervised vs Unsupervised, 
--✅ Linear Regression (R², residuals), 
--✅ Logistic Regression (sigmoid, metrics), 
--✅ KNN (distance metrics, K selection, CV), 
--✅ SVM (decision boundary, kernel), 
--✅ Model evaluation & tuning.
+- ✅ NumPy (arrays, inbuilt functions, broadcasting, indexing, slicing)  
+- ✅ Pandas (Series, DataFrames, indexing, filtering)  
+- ✅ Data aggregation and groupby  
+- ✅ Missing values & outliers handling  
+- ✅ EDA & insights  
+- ✅ SQL (SELECT, WHERE, GROUP BY, ORDER BY, JOINs, subqueries)  
+- ✅ SQL-Python integration (SQLite, MySQL)  
+- ✅ Data Visualization (Seaborn, Matplotlib - bar, line, hist, box, heatmap)  
+- ✅ Chart customization & color palettes  
+- ✅ SciPy computations  
+- ✅ Visual storytelling  
+- ✅ ML pipeline  
+- ✅ Supervised vs Unsupervised  
+- ✅ Linear Regression (R², residuals)  
+- ✅ Logistic Regression (sigmoid, metrics)  
+- ✅ KNN (distance metrics, K selection, CV)  
+- ✅ SVM (decision boundary, kernel)  
+- ✅ Model evaluation & tuning  
+- ✅ Clustering and PCA  
+- ✅ K-Means (elbow method, evaluation)  
+- ✅ PCA (Eigenvalues, dimensionality reduction, implementation)  
+- ✅ Neural Networks (ANNs, activation functions)  
+- ✅ Forward and backpropagation  
+- ✅ TensorFlow/Keras basics  
+- ✅ Training on image/text data  
+
 
 ---
 
